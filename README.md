@@ -1,2 +1,2 @@
 # EEEIC26---Short-Term-Load-Forecasting-for-Academic-Campi-based-on-DL-and-Feature-Engineering
-Complete results of the experiments, with ablation studies on exogenous variables, for short-term load forecasting of an academic campus.
+Complete results of the experiments, with ablation studies on exogenous variables, for short-term load forecasting of an academic campus. Respective of the conference paper submitted to 26th International Conference on Environment and Electrical Engineering by the authors Manuel X. M. Lopes, Carlos Grilo, João Sousa, Pedro Marques and Luís Távora.
